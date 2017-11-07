@@ -4,17 +4,17 @@
 			assets = (
 				{
 					kind = "software-package";
-					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_3.5.3.ipa?raw=true";
+					url = "https://raw.githubusercontent.com/arist1990/PublicFiles/master/kdwz_3.5.3.ipa";
 				},
 				{
 					kind = "display-image";
 					"needs-shine" = NO;
-					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_57.png?raw=true";
+					url = "https://raw.githubusercontent.com/arist1990/PublicFiles/master/kdwz_57.png";
 				},
 				{
 					kind = "full-size-image";
 					"needs-shine" = YES;
-					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_512.png?raw=true";
+					url = "https://raw.githubusercontent.com/arist1990/PublicFiles/master/kdwz_512.png";
 				},
 			);
 			metadata = {
