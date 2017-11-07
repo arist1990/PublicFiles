@@ -1,0 +1,29 @@
+{
+	items = (
+		{
+			assets = (
+				{
+					kind = "software-package";
+					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_3.5.3.ipa?raw=true";
+				},
+				{
+					kind = "display-image";
+					"needs-shine" = NO;
+					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_57.png?raw=true";
+				},
+				{
+					kind = "full-size-image";
+					"needs-shine" = YES;
+					url = "https://github.com/arist1990/PublicFiles/blob/master/kdwz_512.png?raw=true";
+				},
+			);
+			metadata = {
+				"bundle-identifier" = "com.kuaidiwangzi";
+				"bundle-version" = "3.5.3";
+				kind = software;
+				subtitle = Apple;
+				title = "\U5feb\U9012\U738b\U5b50";
+			};
+		},
+	);
+}
